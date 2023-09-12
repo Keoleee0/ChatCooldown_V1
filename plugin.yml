@@ -1,0 +1,14 @@
+---
+main: Keolw\chatcooldown\ChatCooldown
+name: ChatCooldown
+api:
+- 4.0.0
+version: 1.0.0
+author: Keole (@Keole)
+
+permissions:
+  chatcooldown.admin:
+    default: op
+  chatcooldown.bypass:
+    default: op
+...
